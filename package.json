@@ -1,0 +1,20 @@
+{
+  "name": "lexicographical-probability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grasek/lexicographical-probability.git"
+  },
+  "author": "grasek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grasek/lexicographical-probability/issues"
+  },
+  "homepage": "https://github.com/grasek/lexicographical-probability#readme"
+}
